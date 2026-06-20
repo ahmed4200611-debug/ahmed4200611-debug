@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmed
 
-## Data Analyst | Excel | Power BI | SQL
+## Data Analyst | Excel | Power BI | SQL | Python
 
 Passionate about transforming raw data into meaningful insights through data analysis, dashboards, and business intelligence solutions.
 
@@ -52,7 +52,7 @@ Interactive Excel Dashboard analyzing:
 - Sales Channels
 
 🔗 Repository:
-https://github.com/ahmed4200611-debug/Adidas-Sales-Dashboard
+https://github.com/ahmed4200611-debug/Excel-Adidas-Sales
 
 ---
 
@@ -67,7 +67,7 @@ Power BI dashboard for monitoring:
 - Agent Performance
 
 🔗 Repository:
-(Add Repository Link Here)
+https://github.com/ahmed4200611-debug/-Salla-call-center-dashboard
 
 ---
 
