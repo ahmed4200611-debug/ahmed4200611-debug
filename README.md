@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed 👋
 
 ## About Me
-📊 Data Analyst
+📊 Data Analytics
 
 ## Skills
 - Power BI
@@ -9,10 +9,7 @@
 - Excel
 - Python
 
-## Projects
-- Call Center Dashboard
-- Sales Dashboard
-- HR Dashboard
+
 
 ## Connect With Me
 LinkedIn: [www.linkedin.com/in/ahmed-mahmoud-827b113a9]
