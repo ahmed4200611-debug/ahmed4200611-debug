@@ -24,6 +24,9 @@ Passionate about transforming raw data into meaningful insights through data ana
 - Microsoft Excel
 - Power BI
 - SQL
+- Excel
+- Python
+  
 
 ### Excel
 - Pivot Tables
