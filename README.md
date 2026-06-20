@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**ahmed4200611-debug/ahmed4200611-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+📊 Data Analyst
 
-Here are some ideas to get you started:
+## Skills
+- Power BI
+- SQL
+- Excel
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Call Center Dashboard
+- Sales Dashboard
+- HR Dashboard
+
+## Connect With Me
+LinkedIn: [Your LinkedIn]
